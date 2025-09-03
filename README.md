@@ -1,73 +1,38 @@
-# Welcome to your Lovable project
+# 🌐 Abhishek Kumar — Portfolio
 
-## Project info
+Welcome to my personal portfolio website!  
+This project showcases my journey as a **Full-Stack Developer, AI/ML Enthusiast, and Problem Solver**.  
 
-**URL**: https://lovable.dev/projects/0ec29a81-cb97-4a6c-a13a-58ce894389bf
+Built with modern web technologies, it highlights my projects, skills, achievements, and ways to connect with me.  
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## ✨ Features
+- 🎨 **Beautiful UI** — sleek, responsive design with smooth animations.  
+- 📂 **Projects Showcase** — highlights my best work with live demos and GitHub links.  
+- 🧑‍💻 **Skills & Achievements** — structured sections for tech stacks, coding profiles, and recognitions.  
+- 📜 **Downloadable Resume** — one-click access to my updated resume.  
+- 📱 **Fully Responsive** — optimized for mobile, tablet, and desktop screens.  
+- 🌈 **Modern Tech** — built with **React, TailwindCSS, TypeScript**, and **ShadCN UI**.  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0ec29a81-cb97-4a6c-a13a-58ce894389bf) and start prompting.
+## 🛠️ Tech Stack
+- **Frontend:** React, TypeScript, TailwindCSS, ShadCN UI  
+- **Icons & Graphics:** Lucide React, Custom SVGs  
+- **Deployment:** Vercel / Netlify (depending on where you host it)  
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 📸 Preview
+![Portfolio Screenshot](./preview.png)  
+*(Add a screenshot of your portfolio here once deployed)*  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🚀 Getting Started
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/0ec29a81-cb97-4a6c-a13a-58ce894389bf) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Clone the repo:
+```bash
+git clone https://github.com/abhishekkumarcoder21/portfolio.git
+cd portfolio
