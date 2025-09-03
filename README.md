@@ -24,15 +24,10 @@ Built with modern web technologies, it highlights my projects, skills, achieveme
 
 ---
 
-## 📸 Preview
-![Portfolio Screenshot](./preview.png)  
-*(Add a screenshot of your portfolio here once deployed)*  
-
----
 
 ## 🚀 Getting Started
 
 Clone the repo:
 ```bash
-git clone https://github.com/abhishekkumarcoder21/portfolio.git
-cd portfolio
+git clone https://github.com/abhishekkumarcoder21/abhishek_kumar_portfolio
+
